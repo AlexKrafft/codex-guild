@@ -7,4 +7,4 @@ Guild mission:
 - Build
 - Commit
 - Evolve
-18
+19
